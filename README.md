@@ -1,10 +1,14 @@
-<h1 align='center'><center><img src="https://cdn.discordapp.com/attachments/905814226118008923/1004845088184225982/logo_main.png" alt="what image shows" height="20" width="20"></center>   Translator   <center><img src="https://cdn.discordapp.com/attachments/905814226118008923/1004845088184225982/logo_main.png" alt="what image shows" height="20" width="20"></center></a></h1>
+<h1 align='center'><center><img src="https://cdn.discordapp.com/attachments/905814226118008923/1004845088184225982/logo_main.png" alt="logo" height="20" width="20"></center>   Translator   <center><img src="https://cdn.discordapp.com/attachments/905814226118008923/1004845088184225982/logo_main.png" alt="logo" height="20" width="20"></center></a></h1>
 <p align='center'><b><a href='https://discord.gg/BGZWaFzaUP'>Discord</a></b></h5>
 
 #### Features
 - It doesn't download a word while you are typing.
 - More accurate and convenient for repeated use.
 
+### Preview
+<center>
+<img src="https://cdn.discordapp.com/attachments/905814226118008923/1004876949941932102/Translator.png" alt="Preview">
+</center>
 
 ### Downloading & use
 - Go to the **Releases** section
