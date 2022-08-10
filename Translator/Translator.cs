@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -210,11 +210,10 @@ namespace Translator
             string input_s = input_select.GetItemText(input_select.SelectedItem);
             string output_s = output_select.GetItemText(output_select.SelectedItem);
             this.input_select.SelectedItem = output_s; this.output_select.SelectedItem = input_s;
-        }
 
-        private void top_title_Click(object sender, EventArgs e)
-        {
-
+            string main   = input.Text;
+            string export = output.Text;
+            input.Text = export;  output.Text = main;
         }
     }
 }
